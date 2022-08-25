@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  max-width: 600px;
+  margin: 50px auto;
+  height: 80vh;
+  outline: none;
+}
+ul {
+}
+li {
+  list-style: none;
+}
+.selected {
+  background: yellow;
+}
